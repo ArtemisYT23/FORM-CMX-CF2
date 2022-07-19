@@ -1,0 +1,14 @@
+.ButtonForm {
+  padding: 0.7rem;
+  width: 20%;
+  font-size: 1.2rem;
+  text-align: center;
+  background-color: var(--PrimaryColor);
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.ButtonForm:hover {
+  background-color: #3145d6;
+}
